@@ -1,6 +1,8 @@
 This is a great project
-devloping java apps
+we support 
+java apps
 .Net applications
 =======
 NodeJS applications
-pytho application
+python applications
+web applications
