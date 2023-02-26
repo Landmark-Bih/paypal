@@ -4,7 +4,7 @@ austen
 muna
 jj
 rose
-ngoh
-love
+dora
+millionairs
 progress
 we can do it 
