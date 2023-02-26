@@ -7,3 +7,4 @@ rose
 ngoh
 love
 progress
+we can do it 
