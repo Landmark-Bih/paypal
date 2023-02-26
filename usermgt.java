@@ -3,3 +3,5 @@ bright
 austen
 muna
 jj
+rose
+ngoh
